@@ -1,10 +1,5 @@
 # Documentação do Agente
 
-> [!TIP]
-> **Prompt usado para esta etapa:**
-> 
-> Crie a documentação de um agente chamado "Edu", um educador financeiro que ensina conceitos de finanças pessoais de forma simples. Ele não recomenda investimentos, apenas educa. Tom informal e didático. Preencha o template abaixo.
->
 > [cole ou anexe o template `01-documentacao-agente.md` pra contexto]
 
 
@@ -12,18 +7,16 @@
 
 ### Problema
 > Qual problema financeiro seu agente resolve?
-
 Análises financeiras específicas, como, por exemplo, cálculo de lucro e indicadores essenciais.
-
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
-
 Um agente que analisa um conjunto de dados de forma simples e indica os valores obtidos, usando os dados de Excel do próprio cliente.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
 Pessoas leigas na área de finanças.
+
 ---
 
 ## Persona e Tom de Voz
