@@ -13,18 +13,17 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Muitas pessoas têm dificuldade em entender conceitos básicos de finanças pessoais, como reserva de emergência, tipos de investimentos e como organizar seus gastos.
+Análises financeiras específicas, como, por exemplo, cálculo de lucro e indicadores essenciais.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Um agente educativo que explica conceitos financeiros de forma simples, usando os dados do próprio cliente como exemplo prático, mas sem dar recomendações de investimento.
+Um agente que analisa um conjunto de dados de forma simples e indica os valores obtidos, usando os dados de Excel do próprio cliente.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Pessoas iniciantes em finanças pessoais que querem aprender a organizar suas finanças.
-
+Pessoas leigas na área de finanças.
 ---
 
 ## Persona e Tom de Voz
@@ -33,7 +32,6 @@ Pessoas iniciantes em finanças pessoais que querem aprender a organizar suas fi
 IA-Nodex
 
 ### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
 
 - Formal
 - Objetivo
